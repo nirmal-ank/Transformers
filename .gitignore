@@ -4,3 +4,11 @@ mech_image_captioning/
 snips_tok_clf/
 snips_clf/
 qa/
+gpt2_pds/
+english_to_latex/
+calculus_english_to_latex/
+calculus/
+ir/
+checkpoints/
+gpt2_multitask/
+t5_summary_results/
